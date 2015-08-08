@@ -1,0 +1,44 @@
+/**
+* styles.css
+*
+* Created by: Pradyumna Shembekar
+* Email: pshembe@calstatela.edu
+* Created on: 01/25/2015
+*/
+
+		.personalInfo {margin-left: auto;
+				margin-right: auto;
+
+					  }
+
+		.info {text-align: justify;
+				padding-right: 200px;
+				padding-left: 200px;
+				padding-bottom: 50px;
+				}
+
+		.requestedMaterial { border: 1px solid black;
+					  table-layout: fixed;
+					  width: 50%;
+					  padding: 5px;
+					  margin-left: auto;
+					  margin-right: auto;
+					  }
+
+		.requestedFormat { border: 1px solid black;
+					  table-layout: fixed;
+					  width: 50%;
+					  padding: 5px;
+					  margin-left: auto;
+					  margin-right: auto;
+					  }
+
+		.info, body, table, td, input {font-family: "Arial";
+				}
+
+		.submitBtn {width: 10em;
+				height: 2em;
+				border-radius: 0.5em;
+			  }
+
+		.button {text-align: center;}
